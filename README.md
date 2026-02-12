@@ -1,1 +1,1 @@
-# Quiz-Program
+Simple Quiz Program in Java
